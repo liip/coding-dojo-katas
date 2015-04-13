@@ -40,3 +40,7 @@ The following table is to be used as a guideline to the converters behaviour:
 | **XXIX** | 29 | **LX** | 60 | **XCI** | 91 |  |  | 
 | **XXX** | 30 | **LXI** | 61 | **XCII** | 92 |  |  | 
 | **XXXI** | 31 | **LXII** | 62 | **XCIII** | 93 |  |  |
+
+## Purpose ##
+
+Since this kata doesn't have any code provided apart from a basic setup, it can be used to practice several techniques to write clean code from the very beginning of an implementation.
